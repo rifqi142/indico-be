@@ -1,0 +1,10 @@
+# Environment variables
+.env
+
+# Build output
+bin/
+dist/
+tmp/
+
+# Air live reload
+.air.toml.bak

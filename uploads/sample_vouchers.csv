@@ -1,0 +1,9 @@
+code,name,description,discount,max_usage,valid_from,valid_until,is_active
+SUMMER2025,Summer Sale Voucher,Get 25% off on all summer collections,25.00,200,2025-06-01,2025-08-31,true
+NEWUSER15,New User Discount,Welcome bonus for new customers,15.00,500,2025-01-01,2025-12-31,true
+BLACKFRI30,Black Friday Special,Exclusive Black Friday discount,30.00,1000,2025-11-24,2025-11-30,true
+LOYAL50,Loyalty Reward,Thank you for being a loyal customer,50.00,100,2025-01-15,2025-06-30,true
+SPRING20,Spring Collection,Spring season special offer,20.00,300,2025-03-20,2025-05-31,true
+FREESHIP,Free Shipping Voucher,Free shipping on orders above $50,5.00,unlimited,2025-01-01,2025-12-31,true
+EARLYBIRD,Early Bird Special,Early access discount for members,12.50,150,2025-02-01,2025-03-31,true
+WEEKEND10,Weekend Deal,Special weekend discount,10.00,250,2025-01-01,2025-12-31,true
